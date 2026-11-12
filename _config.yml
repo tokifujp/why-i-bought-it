@@ -1,0 +1,10 @@
+title: ワシの買ったもの
+description: 「何を買ったか」ではなく「なぜ買う必要があったのか」から書く購入記録
+url: https://wibi.tokifuji.dev
+lang: ja_JP
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-readme-index
