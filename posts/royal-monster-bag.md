@@ -51,3 +51,7 @@
 - [楽天市場（pcastore）](https://hb.afl.rakuten.co.jp/ichiba/594407ba.702bad01.594407bb.67ee2c01/_RTLink155077?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcastore%2F10000924%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)：1,738円〜（2026-11-08時点）※アフィリエイトリンク
 - [ヨドバシ.com](https://www.yodobashi.com/product/100000001008902038/)：3,880円（購入先。当時は取り寄せ。バリエーションで「13インチ グレー」を選択）
 - [Yahoo!ショッピング Royal-Monster公式ストア](https://store.shopping.yahoo.co.jp/royal-monster/10000924-13.html)：2,398円・在庫あり（2026-11-08確認）
+
+---
+
+この記事の下書きは、AIアシスタント [Muse](https://muse.ai)（キット）が作成し、本人が内容を確認・修正して公開しました。
